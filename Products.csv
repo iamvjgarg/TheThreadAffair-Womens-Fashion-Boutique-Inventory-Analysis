@@ -1,0 +1,37 @@
+﻿Product_ID,Product_Name,Category,Sub_Category,Gender,Size,Colour,Season,Cost_Price_INR,Selling_Price_INR,Launch_Date,Product_Status
+SKU001,Classic Cotton Tee,T-Shirts,Casual,Men,S,Black,Summer,250,499,2025-10-11,Active
+SKU002,Classic Cotton Tee,T-Shirts,Casual,Men,M,Black,Summer,250,499,2025-05-29,Active
+SKU003,Classic Cotton Tee,T-Shirts,Casual,Men,L,White,Summer,250,499,2025-05-07,Active
+SKU004,Classic Cotton Tee,T-Shirts,Casual,Men,XL,White,Summer,250,499,2025-07-10,Active
+SKU005,Classic Cotton Tee,T-Shirts,Casual,Men,XXL,Navy,Summer,250,499,2025-07-02,Active
+SKU006,Printed Casual Shirt,Shirts,Casual,Men,S,Blue,All Season,450,899,2025-06-27,Active
+SKU007,Printed Casual Shirt,Shirts,Casual,Men,M,Blue,All Season,450,899,2025-06-05,Active
+SKU008,Printed Casual Shirt,Shirts,Casual,Men,L,White,All Season,450,899,2025-05-27,Active
+SKU009,Printed Casual Shirt,Shirts,Casual,Men,XL,Grey,All Season,450,899,2025-10-21,Active
+SKU010,Printed Casual Shirt,Shirts,Casual,Men,XXL,Black,All Season,450,899,2025-09-17,Active
+SKU011,Slim Fit Denim Jeans,Jeans,Denim,Men,S,Blue,All Season,650,1299,2025-05-23,Active
+SKU012,Slim Fit Denim Jeans,Jeans,Denim,Men,M,Blue,All Season,650,1299,2025-09-29,Active
+SKU013,Slim Fit Denim Jeans,Jeans,Denim,Men,L,Black,All Season,650,1299,2025-08-17,Active
+SKU014,Slim Fit Denim Jeans,Jeans,Denim,Men,XL,Black,All Season,650,1299,2025-05-09,Active
+SKU015,Slim Fit Denim Jeans,Jeans,Denim,Men,XXL,Grey,All Season,650,1299,2025-05-08,Active
+SKU016,Formal Cotton Trousers,Trousers,Formal,Men,M,Black,All Season,500,999,2025-05-24,Active
+SKU017,Formal Cotton Trousers,Trousers,Formal,Men,L,Black,All Season,500,999,2025-06-25,Active
+SKU018,Formal Cotton Trousers,Trousers,Formal,Men,XL,Grey,All Season,500,999,2025-06-29,Active
+SKU019,Formal Cotton Trousers,Trousers,Formal,Men,XXL,Navy,All Season,500,999,2025-09-07,Active
+SKU020,Everyday Cotton Kurta,Kurtas,Casual,Women,S,Pink,Summer,400,799,2025-10-02,Active
+SKU021,Everyday Cotton Kurta,Kurtas,Casual,Women,M,Pink,Summer,400,799,2025-05-07,Active
+SKU022,Everyday Cotton Kurta,Kurtas,Casual,Women,L,Yellow,Summer,400,799,2025-09-21,Active
+SKU023,Everyday Cotton Kurta,Kurtas,Casual,Women,XL,Blue,Summer,400,799,2025-06-20,Active
+SKU024,Everyday Cotton Kurta,Kurtas,Casual,Women,XXL,Green,Summer,400,799,2025-10-31,Active
+SKU025,Printed Casual Dress,Dresses,Casual,Women,S,Red,Summer,550,1099,2025-10-14,Active
+SKU026,Printed Casual Dress,Dresses,Casual,Women,M,Red,Summer,550,1099,2025-10-27,Active
+SKU027,Printed Casual Dress,Dresses,Casual,Women,L,Black,Summer,550,1099,2025-09-17,Active
+SKU028,Printed Casual Dress,Dresses,Casual,Women,XL,Floral,Summer,550,1099,2025-08-16,Active
+SKU029,Woollen Sweater,Sweaters,Winterwear,Unisex,S,Maroon,Winter,600,1199,2025-06-26,Active
+SKU030,Woollen Sweater,Sweaters,Winterwear,Unisex,M,Maroon,Winter,600,1199,2025-08-23,Active
+SKU031,Woollen Sweater,Sweaters,Winterwear,Unisex,L,Grey,Winter,600,1199,2025-09-28,Active
+SKU032,Woollen Sweater,Sweaters,Winterwear,Unisex,XL,Navy,Winter,600,1199,2025-07-11,Active
+SKU033,Casual Winter Jacket,Jackets,Winterwear,Unisex,M,Black,Winter,900,1799,2025-05-02,Active
+SKU034,Casual Winter Jacket,Jackets,Winterwear,Unisex,L,Black,Winter,900,1799,2025-06-10,Active
+SKU035,Casual Winter Jacket,Jackets,Winterwear,Unisex,XL,Olive,Winter,900,1799,2025-10-26,Active
+SKU036,Casual Winter Jacket,Jackets,Winterwear,Unisex,XXL,Navy,Winter,900,1799,2025-08-17,Active
